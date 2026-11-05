@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "podcasts": [
+    {"id":"p-global-story","category":"world","name":{"ar":"The Global Story","en":"The Global Story (BBC)"},"rss":"https://podcasts.files.bbci.co.uk/w13xtvsd.rss"},
+    {"id":"p-carnegie","category":"world","name":{"ar":"Carnegie Council","en":"Carnegie Council"},"rss":"https://www.carnegiecouncil.org/resources/audio/rss/feed.xml"},
+    {"id":"p-fareed-gps","category":"world","name":{"ar":"Fareed Zakaria GPS","en":"Fareed Zakaria GPS"},"rss":"http://rss.cnn.com/services/podcasting/fareedzakaria/rss.xml"},
+    {"id":"p-presidents-inbox","category":"world","name":{"ar":"The President's Inbox","en":"The President's Inbox"},"rss":"https://feed.podbean.com/thepresidentsinbox/feed.xml"},
+    {"id":"p-diplomat","category":"world","name":{"ar":"The Diplomat","en":"The Diplomat"},"rss":"https://feeds.megaphone.fm/thediplomatpodcast"},
+    {"id":"p-war-on-rocks","category":"world","name":{"ar":"War on the Rocks","en":"War on the Rocks"},"rss":"https://warontherocks.com/feed/"},
+    {"id":"p-npr-politics","category":"politics","name":{"ar":"NPR Politics","en":"NPR Politics Podcast"},"rss":"https://feeds.npr.org/510310/podcast.xml"},
+    {"id":"p-meidastouch","category":"politics","name":{"ar":"MeidasTouch","en":"The MeidasTouch Podcast"},"rss":"https://rss.amperwave.net/v2/feed/audacynetwork/16aa3c6bf526fae9db63070c73cad09f"},
+    {"id":"p-today-explained","category":"knowledge","name":{"ar":"Today, Explained","en":"Today, Explained"},"rss":"https://feeds.megaphone.fm/VMP5705694065"},
+    {"id":"p-sysk","category":"knowledge","name":{"ar":"Stuff You Should Know","en":"Stuff You Should Know"},"rss":"https://feeds.megaphone.fm/stuffyoushouldknow"},
+    {"id":"p-ignore-feeling","category":"knowledge","name":{"ar":"Ignore That Feeling","en":"Ignore That Feeling"},"rss":"https://feeds.acast.com/public/shows/694c1ed009314afbec95a3a6"}
+  ]
+}
