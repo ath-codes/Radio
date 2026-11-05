@@ -1,0 +1,214 @@
+{
+  "version": 4,
+  "podcasts": [
+    {
+      "id": "p-presidents-inbox",
+      "category": "geopolitics",
+      "name": {
+        "ar": "The President's Inbox",
+        "en": "The President's Inbox"
+      },
+      "rss": "https://feed.podbean.com/thepresidentsinbox/feed.xml"
+    },
+    {
+      "id": "p-war-on-rocks",
+      "category": "geopolitics",
+      "name": {
+        "ar": "War on the Rocks",
+        "en": "War on the Rocks"
+      },
+      "rss": "https://warontherocks.libsyn.com/rss"
+    },
+    {
+      "id": "p-diplomat",
+      "category": "geopolitics",
+      "name": {
+        "ar": "The Diplomat",
+        "en": "The Diplomat"
+      },
+      "rss": "",
+      "find": "The Diplomat Asia Pacific magazine",
+      "must": "diplomat",
+      "not": "netflix"
+    },
+    {
+      "id": "p-carnegie",
+      "category": "geopolitics",
+      "name": {
+        "ar": "Carnegie Council",
+        "en": "Carnegie Council"
+      },
+      "rss": "https://www.carnegiecouncil.org/resources/audio/rss/feed.xml",
+      "find": "Carnegie Council for Ethics in International Affairs",
+      "must": "carnegie"
+    },
+    {
+      "id": "p-mark-leonard",
+      "category": "geopolitics",
+      "name": {
+        "ar": "Mark Leonard's World in 30 Minutes",
+        "en": "Mark Leonard's World in 30 Minutes"
+      },
+      "rss": "https://feeds.acast.com/public/shows/mark-leonards-world-in-30-minutes",
+      "find": "World in 30 Minutes",
+      "must": "30 minutes"
+    },
+    {
+      "id": "p-foreign-policy",
+      "category": "geopolitics",
+      "name": {
+        "ar": "Foreign Policy Live",
+        "en": "Foreign Policy Live"
+      },
+      "rss": "https://feeds.megaphone.fm/foreignpolicylive",
+      "find": "Foreign Policy FP Live",
+      "must": "foreign policy"
+    },
+    {
+      "id": "p-csis-truth",
+      "category": "geopolitics",
+      "name": {
+        "ar": "The Truth of the Matter",
+        "en": "The Truth of the Matter"
+      },
+      "rss": "https://feeds.megaphone.fm/CSIS2592165232",
+      "find": "The Truth of the Matter CSIS",
+      "must": "truth of the matter"
+    },
+    {
+      "id": "p-chatham-house",
+      "category": "geopolitics",
+      "name": {
+        "ar": "Independent Thinking",
+        "en": "Independent Thinking"
+      },
+      "rss": "https://feeds.acast.com/public/shows/independent-thinking-with-chatham-house",
+      "find": "Independent Thinking Chatham House",
+      "must": "independent thinking"
+    },
+    {
+      "id": "p-fareed-gps",
+      "category": "world",
+      "name": {
+        "ar": "Fareed Zakaria GPS",
+        "en": "Fareed Zakaria GPS"
+      },
+      "rss": "https://link.chtbl.com/mVx3m5UT",
+      "find": "Fareed Zakaria GPS",
+      "must": "fareed"
+    },
+    {
+      "id": "p-global-story",
+      "category": "world",
+      "name": {
+        "ar": "The Global Story (BBC)",
+        "en": "The Global Story (BBC)"
+      },
+      "rss": "https://podcasts.files.bbci.co.uk/w13xtvsd.rss"
+    },
+    {
+      "id": "p-today-explained",
+      "category": "world",
+      "name": {
+        "ar": "Today, Explained",
+        "en": "Today, Explained"
+      },
+      "rss": "https://feeds.megaphone.fm/VMP5705694065"
+    },
+    {
+      "id": "p-npr-politics",
+      "category": "world",
+      "name": {
+        "ar": "NPR Politics Podcast",
+        "en": "NPR Politics Podcast"
+      },
+      "rss": "https://feeds.npr.org/510310/podcast.xml"
+    },
+    {
+      "id": "p-meidastouch",
+      "category": "world",
+      "name": {
+        "ar": "The MeidasTouch Podcast",
+        "en": "The MeidasTouch Podcast"
+      },
+      "rss": "https://rss.amperwave.net/v2/feed/audacynetwork/16aa3c6bf526fae9db63070c73cad09f"
+    },
+    {
+      "id": "p-philosophize-this",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "Philosophize This!",
+        "en": "Philosophize This!"
+      },
+      "rss": "https://philosophizethis.libsyn.com/rss"
+    },
+    {
+      "id": "p-bbc-philosophy",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "In Our Time: Philosophy",
+        "en": "In Our Time: Philosophy"
+      },
+      "rss": "https://podcasts.files.bbci.co.uk/p01f0vzr.rss"
+    },
+    {
+      "id": "p-fall-civilizations",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "Fall of Civilizations",
+        "en": "Fall of Civilizations"
+      },
+      "rss": "https://feeds.megaphone.fm/fallofcivilizations",
+      "find": "Fall of Civilizations",
+      "must": "fall of civilizations"
+    },
+    {
+      "id": "p-rest-is-history",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "The Rest Is History",
+        "en": "The Rest Is History"
+      },
+      "rss": "https://feeds.megaphone.fm/GLT4787413333"
+    },
+    {
+      "id": "p-throughline",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "Throughline",
+        "en": "Throughline"
+      },
+      "rss": "https://feeds.npr.org/510333/podcast.xml"
+    },
+    {
+      "id": "p-rabbit-hole",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "The Rabbit Hole Detectives",
+        "en": "The Rabbit Hole Detectives"
+      },
+      "rss": "https://feeds.acast.com/public/shows/63e0e50c3d9a89001189c6a3",
+      "find": "The Rabbit Hole Detectives",
+      "must": "rabbit hole"
+    },
+    {
+      "id": "p-sysk",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "Stuff You Should Know",
+        "en": "Stuff You Should Know"
+      },
+      "rss": "https://www.howstuffworks.com/podcasts/stuff-you-should-know.rss",
+      "itunes": "278981407"
+    },
+    {
+      "id": "p-ignore-feeling",
+      "category": "history_philosophy",
+      "name": {
+        "ar": "Ignore That Feeling",
+        "en": "Ignore That Feeling"
+      },
+      "rss": "https://feeds.acast.com/public/shows/694c1ed009314afbec95a3a6"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "version": 3,
+  "stations": [
+    {
+      "id": "qa-aljazeera",
+      "category": "news",
+      "name": {
+        "ar": "إذاعة الجزيرة",
+        "en": "Al Jazeera Radio"
+      },
+      "url": "https://live-hls-audio-web-aja.getaj.net/AJA/01.m3u8"
+    },
+    {
+      "id": "wd-bbc-ar",
+      "category": "news",
+      "name": {
+        "ar": "بي بي سي عربي",
+        "en": "BBC Arabic"
+      },
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
+    },
+    {
+      "id": "wd-mcd",
+      "category": "news",
+      "name": {
+        "ar": "مونت كارلو الدولية",
+        "en": "Monte Carlo Doualiya"
+      },
+      "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3"
+    },
+    {
+      "id": "wd-skynews-ar",
+      "category": "news",
+      "name": {
+        "ar": "سكاي نيوز عربية",
+        "en": "Sky News Arabia"
+      },
+      "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia"
+    },
+    {
+      "id": "wd-france24-ar",
+      "category": "news",
+      "name": {
+        "ar": "فرانس 24 عربي",
+        "en": "France 24 Arabic"
+      },
+      "url": "https://stream.france24.com/f24_ar_lo.mp3"
+    },
+    {
+      "id": "wd-bbc-ws",
+      "category": "news",
+      "name": {
+        "ar": "بي بي سي وورلد سيرفس",
+        "en": "BBC World Service"
+      },
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+    },
+    {
+      "id": "wd-npr",
+      "category": "news",
+      "name": {
+        "ar": "إن بي آر (NPR)",
+        "en": "NPR News"
+      },
+      "url": "https://npr-ice.streamguys1.com/live.mp3"
+    },
+    {
+      "id": "wd-bloomberg",
+      "category": "news",
+      "name": {
+        "ar": "بلومبرغ راديو",
+        "en": "Bloomberg Radio"
+      },
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac"
+    },
+    {
+      "id": "qa-quran",
+      "category": "quran",
+      "name": {
+        "ar": "إذاعة القرآن الكريم - قطر",
+        "en": "Quran Radio Qatar"
+      },
+      "url": "https://qatarradio.qa/stream/quran"
+    },
+    {
+      "id": "eg-quran-cairo",
+      "category": "quran",
+      "name": {
+        "ar": "إذاعة القرآن الكريم - القاهرة",
+        "en": "Quran Radio Cairo"
+      },
+      "url": "https://stream.radiojar.com/8s5u5tpdtwzuv"
+    },
+    {
+      "id": "wd-saudi-quran",
+      "category": "quran",
+      "name": {
+        "ar": "القرآن الكريم - السعودية",
+        "en": "Saudi Quran Radio"
+      },
+      "url": "https://stream.radiojar.com/0tpy1h0kxtzuv"
+    },
+    {
+      "id": "eg-mustafa-ismail",
+      "category": "quran",
+      "name": {
+        "ar": "الشيخ مصطفى إسماعيل",
+        "en": "Mustafa Ismail"
+      },
+      "url": "https://qurango.net/radio/mustafa_ismail"
+    },
+    {
+      "id": "eg-husary",
+      "category": "quran",
+      "name": {
+        "ar": "الشيخ محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Husary"
+      },
+      "url": "https://qurango.net/radio/mahmoud_khalil_alhussary"
+    },
+    {
+      "id": "eg-minshawi",
+      "category": "quran",
+      "name": {
+        "ar": "الشيخ محمد صديق المنشاوي",
+        "en": "Mohammed Siddiq Al-Minshawi"
+      },
+      "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad"
+    },
+    {
+      "id": "wd-tarateel",
+      "category": "quran",
+      "name": {
+        "ar": "تراتيل قصيرة",
+        "en": "Tarateel"
+      },
+      "url": "https://qurango.net/radio/tarateel"
+    },
+    {
+      "id": "qa-radio",
+      "category": "talk",
+      "name": {
+        "ar": "إذاعة قطر العامة",
+        "en": "Qatar Radio"
+      },
+      "url": "https://qatarradio.qa/stream/general"
+    },
+    {
+      "id": "wd-wabc",
+      "category": "talk",
+      "name": {
+        "ar": "إذاعة 77 WABC الحوارية",
+        "en": "77 WABC Radio"
+      },
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3"
+    },
+    {
+      "id": "eg-onsport",
+      "category": "sport",
+      "name": {
+        "ar": "أون سبورت إف إم",
+        "en": "On Sport FM"
+      },
+      "url": "https://carina.streamerr.co:2020/stream/OnSportFM"
+    },
+    {
+      "id": "wd-talksport",
+      "category": "sport",
+      "name": {
+        "ar": "توك سبورت العالمية",
+        "en": "talkSPORT"
+      },
+      "url": "https://radio.talksport.com/stream"
+    },
+    {
+      "id": "eg-umm-kulthum",
+      "category": "music",
+      "name": {
+        "ar": "إذاعة أم كلثوم",
+        "en": "Umm Kulthum"
+      },
+      "url": "https://stream.zeno.fm/zsgrfxg71s8uv"
+    },
+    {
+      "id": "eg-abdel-halim",
+      "category": "music",
+      "name": {
+        "ar": "إذاعة عبد الحليم حافظ",
+        "en": "Abdel Halim Hafez"
+      },
+      "url": "https://stream.zeno.fm/8a4eqkd0pnhvv"
+    },
+    {
+      "id": "eg-nile-fm",
+      "category": "music",
+      "name": {
+        "ar": "نايل إف إم",
+        "en": "Nile FM"
+      },
+      "url": "https://audio.nrpstream.com/listen/nile_fm/radio.mp3"
+    },
+    {
+      "id": "eg-nogoum",
+      "category": "music",
+      "name": {
+        "ar": "نجوم إف إم",
+        "en": "Nogoum FM"
+      },
+      "url": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3"
+    },
+    {
+      "id": "wd-radio-paradise",
+      "category": "music",
+      "name": {
+        "ar": "راديو بارادايس",
+        "en": "Radio Paradise"
+      },
+      "url": "https://stream.radioparadise.com/aac-128"
+    }
+  ]
+}
